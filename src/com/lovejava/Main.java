@@ -5,5 +5,9 @@ public class Main {
     {
     	System.out.println("First code push to git");
     	System.out.println("Adding tag....");
+    	System.out.println("Project cloned and modified");
+    	
+    	System.out.println("Cloning.....");
+    	System.out.print("Branching....");
     }
 }
