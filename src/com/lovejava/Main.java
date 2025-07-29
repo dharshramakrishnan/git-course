@@ -8,6 +8,7 @@ public class Main {
     	System.out.println("Project cloned and modified");
     	
     	System.out.println("Cloning.....");
-    	System.out.print("Branching....");
+    	System.out.println("Branching....");
+    	System.out.println("Deleting and switchin branch0");
     }
 }
